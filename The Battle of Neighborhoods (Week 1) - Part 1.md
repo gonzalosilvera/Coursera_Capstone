@@ -2,7 +2,7 @@
 
 ### Introduction and business problem
 
-### Problem background
+### Problem background 
 
 A significant portion of the city of Montevideo market is struggling with the consequences of the coronavirus. People cannot crowd in commercial places like shopping malls, restaurants, farmers markets and many more. This situation particularly affects businesses that depend on direct contact with their customers.
 
